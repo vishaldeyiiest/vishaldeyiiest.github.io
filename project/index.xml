@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Academic Site of Vishal Dey</title>
+    <link>https://vishaldeyiiest.github.io/project/</link>
+    <description>Recent content in Projects on Academic Site of Vishal Dey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Vishal Dey</copyright>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vishaldeyiiest.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Online Cost-Efficient Protection Scheme for Quick Recovery in All-Optical WDM Mesh Networks</title>
+      <link>https://vishaldeyiiest.github.io/project/igstreams-project/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/project/igstreams-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An offline scheme for reducing cost of protection in all-optical WDM mesh networks with fast recovery</title>
+      <link>https://vishaldeyiiest.github.io/project/estreams-project/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/project/estreams-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affinity Analysis in Social Networks for Online Travel Agency</title>
+      <link>https://vishaldeyiiest.github.io/project/social/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/project/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing Robust Machine Learning for deep learning applications</title>
+      <link>https://vishaldeyiiest.github.io/project/robustml/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/project/robustml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Analysis of Unmanned Aerial Vehicles</title>
+      <link>https://vishaldeyiiest.github.io/project/uav/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/project/uav/</guid>
+      <description>Drones present a novel airborne platform for new commercial and consumer tasks. Due to their increasing use security analysis has become necessary. In this paper, we present a collection of fatal attacks, minor observations and associated security vulnerabilities for DJI Phantom 4 Pro(P4P) and Parrot Bebop 2 drones. We also propose some countermeasures to bolster the security of the analyzed drones. In addition to this, we provided a brief overview of the system and embedded architecture of these vehicles.</description>
+    </item>
+    
+  </channel>
+</rss>

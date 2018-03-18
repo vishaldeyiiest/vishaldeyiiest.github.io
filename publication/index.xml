@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Academic Site of Vishal Dey</title>
+    <link>https://vishaldeyiiest.github.io/publication/</link>
+    <description>Recent content in Publications on Academic Site of Vishal Dey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Vishal Dey</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vishaldeyiiest.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Affinity Analysis in Social Networks for Online Travel Agency: User oriented data-driven approach.</title>
+      <link>https://vishaldeyiiest.github.io/publication/social/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/publication/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An online cost-efficient protection scheme for quick recovery in all-optical WDM mesh networks.</title>
+      <link>https://vishaldeyiiest.github.io/publication/igstreams/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/publication/igstreams/</guid>
+      <description>(Impact Factor- 1.210, Indexed in - Science Citation Index (SCI), Science Citation Index Expanded (SciSearch), SCOPUS, EBSCO, INSPEC and others)</description>
+    </item>
+    
+    <item>
+      <title>Security Vulnerabilities of Unmanned Aerial Vehicle and Countermeasures: An Experimental Study.</title>
+      <link>https://vishaldeyiiest.github.io/publication/vlsid/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/publication/vlsid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An offline scheme for reducing cost of protection in all-optical WDM mesh networks with fast recovery</title>
+      <link>https://vishaldeyiiest.github.io/publication/estreams/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/publication/estreams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEMRSA: Spectrum Efficient Modulation- aware Dynamic Routing &amp; Spectrum Allocation in Elastic Optical Network.</title>
+      <link>https://vishaldeyiiest.github.io/publication/iccms/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/publication/iccms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Academic Site of Vishal Dey</title>
+    <link>https://vishaldeyiiest.github.io/home/</link>
+    <description>Recent content in Homes on Academic Site of Vishal Dey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Vishal Dey</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://vishaldeyiiest.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome all!!. :)</title>
+      <link>https://vishaldeyiiest.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/home/hero/</guid>
+      <description>This page is not routinely maintained, apologies!. For details of publications, please check my linked Google scholar account. A Machine Learning enthusiast, overwhelmed by Quantum Theory, Black Holes and Psychology.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vishaldeyiiest.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/home/about/</guid>
+      <description>Biography I&amp;rsquo;m a final year student pursuing Bachelor of Technology in the Department of Computer Science and Technology of Indian Institute of Engineering Science and Technology, Shibpur, India. I have already authored three journal publications by 2018 (published by SCI Springer and Taylor &amp;amp; Francis), a conference paper (published by ACM Digital Library) and another conference paper (accepted in upcoming IEEE conference). I completed one summer internship of 2 months duration in 2017 under NTU-India Connect Program of Nanyang Technological University, Singapore.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://vishaldeyiiest.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://vishaldeyiiest.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://vishaldeyiiest.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://vishaldeyiiest.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://vishaldeyiiest.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://vishaldeyiiest.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/home/teaching/</guid>
+      <description>I led several sessions for juniors through the Robotics club, organized lectures on competitive coding. I was selected as the head of Turing Chapter of the Coding club at our esteemed university and worked hard to make seemingly tough and humongous domain of machine learning tractable. Also, I was an intern at a company GradeUp as content developer, I was assigned to set Q&amp;amp;A and mock tests on core CS subjects.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://vishaldeyiiest.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://vishaldeyiiest.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishaldeyiiest.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
